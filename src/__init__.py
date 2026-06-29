@@ -1,0 +1,2 @@
+"""Buyer segmentation project package."""
+
